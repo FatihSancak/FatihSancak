@@ -1,7 +1,7 @@
 <center>
 <h1 align="center">Hi 👋, I'm Mehmet Fatih SANCAK</h1>
 
-<h3 align="center">I am a QA tester from Turkey who promotes innovation through thorough testing; I am committed to making software bug-free.</h3>
+<h3 align="center">I am a QA tester (SDET) from Turkey who promotes innovation through thorough testing; I am committed to making software bug-free.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fatihsancak&label=Profile%20views&color=0e75b6&style=flat" alt="fatihsancak" /> </p>
 
