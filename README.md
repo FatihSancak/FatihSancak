@@ -62,8 +62,9 @@
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihsancak&show_icons=true&locale=en&layout=compact" alt="fatihsancak" />
 </p>
-    
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihsancak&show_icons=true&locale=en" alt="fatihsancak" /></p>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihsancak&show_icons=true&locale=en&layout=compact" alt="fatihsancak" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihsancak&show_icons=true&locale=en" alt="fatihsancak" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatihsancak&" alt="fatihsancak" /></p>
 
 </center>
